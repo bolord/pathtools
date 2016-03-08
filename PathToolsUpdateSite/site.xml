@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Path Tools update site" url="http://pathtools.googlecode.com/svn/trunk/PathToolsUpdateSite">
+   <description name="Path Tools update site" url="https://raw.githubusercontent.com/bolord/pathtools/master/PathToolsUpdateSite">
       This is the update site for Path Tools Eclipse Plugin. Read the details here: http://code.google.com/p/pathtools/
    </description>
    <feature url="features/PathToolsRSEFeature_1.0.64.jar" id="PathToolsRSEFeature" version="1.0.64">
